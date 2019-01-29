@@ -1,0 +1,46 @@
+{
+	"tasks": [
+		{
+			"task": "С_БАКА",
+			"answer": "СОБАКА",
+			"key": "О",
+			"successes": 15,
+			"appears": 21
+		},
+		{
+			"task": "Х_ЛОДИЛЬНИК",
+			"answer": "ХОЛОДИЛЬНИК",
+			"key": "О",
+			"successes": 17,
+			"appears": 19
+		},
+		{
+			"task": "Ш_ПОТ",
+			"answer": "ШЁПОТ",
+			"key": "Ё",
+			"successes": 16,
+			"appears": 20
+		},
+		{
+			"task": "Ж_ЗНЬ",
+			"answer": "ЖИЗНЬ",
+			"key": "И",
+			"successes": 15,
+			"appears": 19
+		},
+		{
+			"task": "СНЕЖ_НКА",
+			"answer": "СНЕЖИНКА",
+			"key": "И",
+			"successes": 16,
+			"appears": 18
+		},
+		{
+			"task": "Р_СТ",
+			"answer": "РОСТ",
+			"key": "О",
+			"successes": 16,
+			"appears": 18
+		}
+	]
+}

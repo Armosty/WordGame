@@ -1,0 +1,6 @@
+СОБАКА: 21 appears, 15 right answers.
+ХОЛОДИЛЬНИК: 19 appears, 17 right answers.
+ШЁПОТ: 20 appears, 16 right answers.
+ЖИЗНЬ: 19 appears, 15 right answers.
+СНЕЖИНКА: 18 appears, 16 right answers.
+РОСТ: 18 appears, 16 right answers.

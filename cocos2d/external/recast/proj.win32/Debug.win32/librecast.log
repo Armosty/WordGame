@@ -1,0 +1,19 @@
+﻿  DebugDraw.cpp
+  DetourDebugDraw.cpp
+  DetourCrowd.cpp
+  DetourLocalBoundary.cpp
+  DetourObstacleAvoidance.cpp
+  DetourPathCorridor.cpp
+  DetourPathQueue.cpp
+  DetourProximityGrid.cpp
+d:\games\gameloft\cocos\wordgame\cocos2d\external\recast\detourcrowd\detourobstacleavoidance.cpp(334): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  DetourTileCache.cpp
+  DetourTileCacheBuilder.cpp
+  DetourAlloc.cpp
+  DetourCommon.cpp
+  DetourNavMesh.cpp
+  DetourNavMeshBuilder.cpp
+  DetourNavMeshQuery.cpp
+  DetourNode.cpp
+  fastlz.c
+  librecast.vcxproj -> D:\Games\Gameloft\cocos\WordGame\proj.win32\Debug.win32\librecast.lib
